@@ -1,0 +1,52 @@
+body{
+        background: url(images/todo.jpg);
+        text-align: center;
+        
+        
+}
+#top{
+    text-align: center;
+    background-color: darkblue;
+    color: #ffff;
+    font-size: 50px;
+    
+}
+
+#todo-item{
+        font-size: 50px;
+        text-align: center;
+        
+}
+.btn{
+        background-color: rgb(32, 124, 46);
+        margin-left: 20px;
+        margin-top: 20px;
+        color: #ffff;
+        font-size: 20px;
+        
+}
+.dbtn{
+        background-color:red;
+        margin-left: 200px;
+        margin-top: 20px;
+        color: #ffff;
+        font-size: 20px;
+        
+}
+#add,#delAll{
+        background-color: darkblue;
+        color: #ffff;
+        font-size: 30px;
+        margin-left: 20px;
+}
+
+#main{
+        border: 5px solid darkblue;
+        margin: 20px;
+        padding: 20px;
+}
+#list{
+        font-size: 50px;
+        
+}
+
